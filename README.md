@@ -169,7 +169,7 @@ $ npm start
 ## 🧑‍💻 Author
 
 - Github: [Uzairrr21](https://github.com/Uzairrr21)
-- Email: uzairrr21@example.com
+- Email: uzairmoazzam21@gmail.com
 
 ---
 
